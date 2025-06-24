@@ -66,8 +66,14 @@ The entire workflow is in a **single script**: `forecast_kuruduwatta.py`
 
 5. **Visualization**
    - Plot historical and forecasted trends
+last output as below 
 
----
+           ds       forecast    lower_bound    upper_bound
+0  2025-05-28  216995.690700  162223.855377  270514.682455
+1  2025-05-29  220667.720375  163108.096294  277997.416890
+2  2025-05-30  204837.472566  146602.722916  260261.559345
+3  2025-05-31  208482.518705  155260.406734  262902.414095
+4  2025-06-01  206453.595920  151402.200629  261418.441350
 
 ## ▶️ Getting Started
 
