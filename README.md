@@ -78,9 +78,4 @@ last output as below
 | 2025-05-31 | 208,482.52     | 155,260.41     | 262,902.41     |
 | 2025-06-01 | 206,453.60     | 151,402.20     | 261,418.44     |
 
-## ▶️ Getting Started
 
-### 1. Install Dependencies
-
-```bash
-pip install -r requirements.txt
